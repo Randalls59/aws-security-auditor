@@ -1,0 +1,7 @@
+audit-*.json
+*.pyc
+__pycache__/
+.env
+.aws/
+venv/
+.venv/
